@@ -1,5 +1,5 @@
 ## web 性能优化总结
-#### 1. web存储  local storage  session storage
+### 1. web存储  local storage  session storage
 ###  2. http 缓存
 * 客户端三个属性 max-age no-cache last-modified
 * max-age  在cache-control必须设置max-ag,这个值告诉客户端在发起下一次的请求之前要把数据缓存多长时间 单位是秒  如果在有效期 返回304
