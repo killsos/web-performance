@@ -133,3 +133,10 @@
 
 #### 14使Ajax可缓存
 * 使用ssl,ssl响应是可缓存的
+
+
+### 提高用户体验  将图片高度模糊的图片,到原始图片加载完毕替换
+
+### 通过块编码 http1.1引入transfer-encoding：chunked 浏览器下载到数据立刻解析 同时配合使用 Trailer:cookie Trailer:ETag
+
+### 
